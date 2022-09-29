@@ -6,7 +6,7 @@
 
 ### Python Django Developer
 - Python Django Developer (+ Python Data Engineer)
-- I Completed in CodeStates AI 08th
+- Completed in CodeStates AI 08th
 
 ### Interest
 - Python3 (Django, Data Engineering, Some of ML/DL)
