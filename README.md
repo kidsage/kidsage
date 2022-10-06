@@ -5,12 +5,12 @@
 </div>
 
 ### Python Django Developer
-- Python Django Developer (+ Python Data Engineer)
+- Python Django Back-end Developer
 - Completed in CodeStates AI 08th
 
 ### Interest
-- Python3 (Django, Data Engineering, Some of ML/DL)
-- Django (main: Back)
+- Python3 (Django, Data Engineering)
+- Django (Back-end)
 - Linux (Ubuntu, Redhat, ...)
 
 <div align=center>
