@@ -7,8 +7,8 @@
 
 ### Python Django(WEB) Developer
 - 파이썬 장고 백엔드 개발자를 목표로 하고 있습니다  
-  > Django rest framework로 rest한 api를 개발하고자 합니다
-  > 기본 Django web framework로 프로젝트를 진행해본 경험이 있습니다
+  > - Django rest framework로 rest한 api를 개발하고자 합니다  
+  > - 기본 Django web framework로 프로젝트를 진행해본 경험이 있습니다
 
 ### Interest
 + Django (Back-end) : 기본 WF + DRF 모두 다루고자 합니다
