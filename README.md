@@ -8,6 +8,7 @@
 ### Python Django(WEB) Developer
 - 파이썬 장고 백엔드 개발자를 목표로 하고 있습니다  
   > Django rest framework로 rest한 api를 개발하고자 합니다
+  > 기본 Django web framework로 프로젝트를 진행해본 경험이 있습니다
 
 ### Interest
 + Django (Back-end) : 기본 WF + DRF 모두 다루고자 합니다
@@ -22,7 +23,6 @@
 <a href="https://velog.io/@kidsage92" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/achrosage/)](https://www.instagram.com/achrosage/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ruhyun921@gmail.com)](mailto:ruhyun92@gmail.com)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kidsage&show_icons=true&theme=radical)
 </div>
 
