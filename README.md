@@ -1,8 +1,7 @@
 <div align=center>
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkidsage%2Fhit-counter&count_bg=%23009310&title_bg=%23222121&icon=python.svg&icon_color=%23EFEFEF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 </div>
+
 <br>
 
 ### Python Django(WEB) Developer
@@ -25,4 +24,3 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ruhyun921@gmail.com)](mailto:ruhyun92@gmail.com)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kidsage&show_icons=true&theme=radical)
 </div>
-
