@@ -20,9 +20,10 @@
 
 <div align=center>
 
-
 <a href="https://velog.io/@kidsage92" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/achrosage/)](https://www.instagram.com/achrosage/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ruhyun921@gmail.com)](mailto:ruhyun92@gmail.com)
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kidsage&show_icons=true&theme=radical)
+  
 </div>
