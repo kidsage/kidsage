@@ -12,8 +12,9 @@
   > - 기본 Django web framework로 개발했습니다.  
 
 ### Interest
-+ Django (Back-end) : 기본 WF + DRF 모두 다루고자 합니다.
-+ Linux : Fedora, Ubuntu 계열 linux를 다뤄본 경험이 있습니다.  
++ Django (Back-end): 기본 WF + DRF 모두 다루고자 합니다.
++ Linux: Fedora, Ubuntu 계열 linux를 다뤄본 경험이 있습니다.  
++ Dart, Flutter: 현재 프론트 언어로 flutter를 다뤄보고자 dart 언어와 flutter 프레임워크를 공부하고 있습니다.
 
 <br><br>
 
