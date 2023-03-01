@@ -11,14 +11,13 @@
   > - Django rest framework로 rest한 api를 개발하고 있습니다.  
   > - 기본 Django web framework로 개발했습니다.  
 
-- 추후 데이터 분석, 모델링도 공부할 예정입니다.
-  > - kaggle 기반으로 스터디를 진행한 경험이 있고, RNN, LSTM 등을 간단히 다뤄본 경험이 있습니다.
-  > - web에 AI 모델을 구현한 사이트를 만들어 보는 것이 목표입니다. ex) NovelAI, chatGPT
-
 ### Interest
 + Django (Back-end): 기본 WF + DRF 모두 다루고자 합니다.
 + Linux: Fedora, Ubuntu 계열 linux를 다뤄본 경험이 있습니다.  
 + Dart, Flutter: 현재 프론트 언어로 flutter를 다뤄보고자 dart 언어와 flutter 프레임워크를 공부하고 있습니다.
++ 추후 데이터 분석, 모델링도 공부할 예정입니다.
+  > - kaggle 기반으로 스터디를 진행한 경험이 있고, RNN, LSTM 등을 간단히 다뤄본 경험이 있습니다.
+  > - web에 AI 모델을 구현한 사이트를 만들어 보는 것이 목표입니다. ex) NovelAI, chatGPT
 
 <br><br>
 
