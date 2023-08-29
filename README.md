@@ -7,7 +7,7 @@
 <br>
 
 ### Python Django(WEB) Developer   
-- 파이썬 장고 백엔드 개발자를 목표로 하고 있습니다.  
+- 파이썬 장고 백엔드 개발자입니다. 
   > - Django rest framework로 rest한 api를 개발하고 있습니다.  
   > - 기본 Django web framework로 개발했습니다.  
 
