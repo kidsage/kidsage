@@ -6,15 +6,16 @@
 
 <br>
 
-### Python Django(WEB) Developer   
-- 파이썬 장고 백엔드 개발자입니다. 
-  > - Django rest framework로 rest한 api를 개발하고 있습니다.  
-  > - 기본 Django web framework로 개발했습니다.  
+### Web backend Developer   
+- 케일코드 소속 웹 백엔드 개발자(23.10 ~ 현재) 
+  > - Node.js로 핀테크 관련 앱 백엔드 개발을 시작했습니다.
+  > - DRF 사용 경력도 있습니다.
 
 ### Interest
-+ Django (Back-end): 기본 WF + DRF 모두 다루고자 합니다.
++ Django: 기본 WF + DRF 모두 다루고자 합니다.
++ Node.js: 현재 사용중인 언어입니다.
 + Linux: Fedora, Ubuntu 계열 linux를 다뤄본 경험이 있습니다.  
-+ Dart, Flutter: 현재 프론트 언어로 flutter를 다뤄보고자 dart 언어와 flutter 프레임워크를 공부하고 있습니다.
++ Dart, Flutter: 프론트 언어로 flutter를 다뤄보고자 dart 언어와 flutter 프레임워크를 지속해서 다룰 예정입니다.  
 <br><br>
 
 <div align=center>
