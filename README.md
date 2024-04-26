@@ -7,15 +7,16 @@
 <br>
 
 ### Web backend Developer   
-- 케일코드 소속 웹 백엔드 개발자(23.10 ~ 현재) 
-  > - Node.js로 핀테크 관련 앱 백엔드 개발을 시작했습니다.  
-  > - DRF 사용 경력도 있습니다.
+- 케일코드 웹 백엔드 개발자(23.10 ~ 현재) 
+  > - Node.js 기반 핀테크 소스 개발.
+- 세보시스템스 인프라팀 연구원(19.08 ~ 21.04)
+  > - 서버 구축 및 데이터 파이프라인 관리(python).  
 
 ### Interest
-+ Django: 기본 WF + DRF 모두 다루고자 합니다.
-+ Node.js: 현재 사용중인 언어입니다.
-+ Linux: Fedora, Ubuntu 계열 linux를 다뤄본 경험이 있습니다.  
-+ Dart, Flutter: 프론트 언어로 flutter를 다뤄보고자 dart 언어와 flutter 프레임워크를 지속해서 다룰 예정입니다.  
++ Django
++ Node.js
++ Linux: Fedora, Ubuntu 계열 linux
++ Dart, Flutter  
 <br><br>
 
 <div align=center>
